@@ -5,9 +5,9 @@ This is a repo for students to fork and use as a template for their group's repo
 
 By the end of the day on Tuesday, 2/10, each member of the group should agree to do one of the tasks of the project. Place the name of each group member next to the task
 
-- Task 1: 
+- Task 1: Bing Chen
 - Task 2: Hui Fang
-- Task 3: 
+- Task 3: Cole Hammett
 
 Other group notes for this item:
 
