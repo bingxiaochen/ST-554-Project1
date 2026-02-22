@@ -9,9 +9,9 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
 Overall, I think the notebook is clearly structured into different sections based on the major steps of the analysis, and I like how you briefly introduce what each module or section is intended to accomplish. To further improve clarity and readability, it would be helpful to add more narrative throughout the notebook to better connect the computational steps to the underlying statistical concepts. You should also consider: 
 
   + Writing out the mathematical equations for both models 
-	+ Providing a short explanation of what each function is doing and how it works conceptually
+  + Providing a short explanation of what each function is doing and how it works conceptually
   + Including the final model equations after estimation and offering an interpretation of the estimated coefficients in the context of the data
-	+ Expanding the narrative between sections to guide the reader through the purpose and reasoning behind each step of the workflow
+  + Expanding the narrative between sections to guide the reader through the purpose and reasoning behind each step of the workflow
 
 
 
