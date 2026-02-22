@@ -5,6 +5,7 @@ You can provide feedback to your group members in many different ways (live in a
 Please replace “Feedback giver #x” with a group member’s name below and add feedback as a bulleted list below. Note: There is a pencil icon on the top right of the README file (when you are viewing the README.md file) that allows you to edit.
 
 - Bing Chen
+
 Overall, I think you did a great job providing background information, explaining each step of the analysis as you progressed, and clearly interpreting your results. I also appreciated the comments included in your code chunks that explain what each line is doing, as well as the overall structure of the notebook, which makes it easy to follow. The summary at the end was an effective way to conclude the exploratory data analysis. 
 
 Suggestions to improve: 
