@@ -28,5 +28,26 @@ Good job on Task 1, Bing! Your work is technically solid, well structured, and c
 
 
 
-- Feedback giver #2
-  + item
+- Cole Hammett
+  	I do not have a strong background in calculus but I have been introduced to gradient descent algorithms because I use neural networks in my research. I will do what I can to offer constructive comments to your submission! Just as a basic overview, you did a good job of following the good programming practices. Your markdown comments are well thought out. You included multiple steps in one block of code where I broke mine up into very small lines. However, the effect is the same because your markdown describes all parts of the code.
+  
+  	I like your very thorough explanation of the staistics with equations and all! Please consider easing into this a little slower would be one recommendation to consider. Some readers might know what you're talking about here with these terms but someone who only knows basic statistics might sturggle. For example:
+	+ What is your motivation? Why are you trying to predict this value?
+	+ What are the consequences of low quality predictions? What are the stakes?
+  	+ What are other examples of loss functions?
+  	+ What question are you answering with this section? How will you know if your answer is valid?
+  	  
+  	Your code is very neat and tighty. The way you right combines many steps into minimal lines of code. It's all very pythonic! I like that you include many inputs into your arguments rather than just hardcoding them for only this assignment.
+  
+  	At the end of each section, consider adding a block of markdown talking about what the takeaways are.
+  	+ Do you think this method was very effective? How easy was it to develop?
+  	+ What other types of data could this workflow be used for?
+  	+ What is the signficance of the predictions in the context of the experiment?
+ 
+  	I like how you added ideas on how the process could be improved upon, such as how one could modify the input parameters into the function and potentially see better results (markdown between cells 28 and 29). There is a difference in the workflow at the very end of your two sections. When you are estimating for specific input variables, you use arithmetic to calculate these from the equation for the regression line. In the grid search section, you copy and pasted the numeric value of the coefficients and did your calculation that way. In the gradient descent section, you stored the return of the function (the coefficients) as variables then used those to calculate the estimates. They both give the same output so functionally it isn't important but it maybe something to consider for consistencies sake. 
+ 
+
+ 
+  	  
+	
+  
