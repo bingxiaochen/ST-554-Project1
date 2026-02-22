@@ -5,10 +5,12 @@ You can provide feedback to your group members in many different ways (live in a
 Please replace “Feedback giver #x” with a group member’s name below and add feedback as a bulleted list below. Note: There is a pencil icon on the top right of the README file (when you are viewing the README.md file) that allows you to edit.
 
 - Bing Chen
-  + plot_hist function: You might need to investigate your if, else statement. I think it should come before your plot statement... Or, it might not be needed at all.
-  + I think it'd be helpful to also show Benzene concentration across a combinition of different time frames (e.g. group by season and month).
-  + Is there a categorical variables summary?
-  + Overall, I think you did a great job giving background information, explaining each step as you go, and interpreting results. I like how you also provided comments in your code chunks that explains what each line's doing. The way you structured the notebook is clear as well. The overall summary at the end was also a great way to conclude the explanatory data analysis. Good job! 
+Overall, I think you did a great job providing background information, explaining each step of the analysis as you progressed, and clearly interpreting your results. I also appreciated the comments included in your code chunks that explain what each line is doing, as well as the overall structure of the notebook, which makes it easy to follow. The summary at the end was an effective way to conclude the exploratory data analysis. 
+
+Suggestions to improve: 
+  + plot_hist function: the logic within the if–else statement may need to be evaluated before the plotting step, investigate if the conditional is necessary
+  + Expanding the analysis by examining Benzene concentration across combinations of different time frames, such as grouping observations by both season and month, to better capture temporal patterns in the data.
+  + Is there a categorical variables summary? Including a summary of categorical variables is helpful to provide a more complete overview of the dataset beyond numerical summaries. 
 
 
 - Feedback giver #2
