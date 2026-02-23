@@ -14,5 +14,5 @@ Suggestions to improve:
   + Is there a categorical variables summary? Including a summary of categorical variables is helpful to provide a more complete overview of the dataset beyond numerical summaries. 
 
 
-- Feedback giver #2
-  + item
+- Cole Hammett
+  The introduction is strong and I appreciate the details. It makes it more relevant to the audience when they know what the statistics actually mean. The markdown is also very legible for anyone to read! Your strategy of adding comments into the coding blocks that are not in between lines but off to the side is smart, I did not think of that. I think the disrepancy in August is worth further investigation! Maybe group by days next? Or look for some sort of outliers that are throwing off this month? Overall your analysis is very thorough with a lot of work done, good job! The title in your histogram function is a little odd. I think "for urban pollution monitoring" or something similar would be a better fit than "for air quality".
