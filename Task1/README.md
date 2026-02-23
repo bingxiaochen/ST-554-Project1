@@ -23,12 +23,8 @@ Good job on Task 1, Bing! Your work is technically solid, well structured, and c
    +  Provide brief comments explaining the main steps of your code. Your code it correct, but adding short comments to some will help readers follow the logic more easily, especially those less familiar with numerical optimization.
    +  Add a short comparison between grid search and gradient descent. Since you implemented both methods, a concise summary would be helpful. For example, whether the two methods converged to similar estimates, which one is easier to implement, etc.
 
-	
-
-
-
-
 - Cole Hammett
+  
   	I do not have a strong background in calculus but I have been introduced to gradient descent algorithms because I use neural networks in my research. I will do what I can to offer constructive comments to your submission! Just as a basic overview, you did a good job of following the good programming practices. Your markdown comments are well thought out. You included multiple steps in one block of code where I broke mine up into very small lines. However, the effect is the same because your markdown describes all parts of the code.
   
   	I like your very thorough explanation of the staistics with equations and all! Please consider easing into this a little slower would be one recommendation to consider. Some readers might know what you're talking about here with these terms but someone who only knows basic statistics might sturggle. For example:
