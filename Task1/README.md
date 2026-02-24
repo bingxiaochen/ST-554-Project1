@@ -13,6 +13,7 @@ Good job on Task 1, Bing! Your work is technically solid, well structured, and c
    +  In the Prediction of C6H6(GT) section, the definitions of squared error loss and RMSE equation are very helpful. Including the formulas makes the mathematical foundation explicit and accessible.
    +  Your function definitions are well organized. Listing parameters and documenting them makes the code easy to follow.
    +  The overall flow is logical and easy to navigate.
+   +  After revisions, you incorporated the feedback to refine the notebook. The introduction provides more an overview of the task, the added section narrative guide reader easily to follow. The takeaways highlights the practical differences between grid search and gradient descent, and shows that adding relevant explanatory variables generally leads to a better‑fitting model.
 + Suggestions for improvement:
    +  Add more narrative throughout the notebook to explain your reasoning, interpret results, and guide the reader.
    +  Add brief comments explaining your choices of step sizes, starting values, and tolerances. e.g., why do you choose Q1 – Q3 for the grid, why start β<sub>0</sub> at -20, why choose step sizes of 0.5 and 0.000005, why use tolerance 0.00001?
