@@ -17,12 +17,13 @@ Overall, I think the notebook is clearly structured into different sections base
 
 - Hui
   
-Overall, your work on Task 3 is technically sound and follows the project requirements closely. You correctly cleaned the data, aggregated by Date, implemented time‑series cross‑validation, compared SLR and MLR models, and fit the best model to the full dataset. The workflow is clear and the results are reasonable.
+Overall, your work on Task 3 is technically sound and follows the project requirements closely. You correctly cleaned the data, aggregated by Date, implemented time‑series cross‑validation, compared SLR and MLR models, and fit the best model to the full dataset. The workflow is clear and the results are reasonable. Good job!
 + Strengths:
   - Clear workflow and organization. Your notebook follows the same structure as the project instructions. This makes the notebook easy to follow.
   - Data cleaning matches the requirements. You removed the correct variables, aggregated by Date, and produced the expected number of daily observations.
   - Correct implementation of time series cross validation. Your helper function correctly trains on days ≤ _k_ and tests on day _k_ + 1, matching the sequential CV design.
   - Fitting the model correctly. You fit the MLR model to the full dataset and print coefficients, completing the final step of the task.
+  - Improved clarity after revisions. The added mathematical equations, clearer explanations, and smoother narrative transitions make the analysis easier to understand and more polished.
  
 + Suggestions for improvement:
   - Your introduction is very brief. It would be helpful to expand the introduction to explain the purpose of time-series cross-validation and the two models being compared.
