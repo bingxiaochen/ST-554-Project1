@@ -13,7 +13,7 @@ Overall, I think the notebook is clearly structured into different sections base
   + Including the final model equations after estimation and offering an interpretation of the estimated coefficients in the context of the data
   + Expanding the narrative between sections to guide the reader through the purpose and reasoning behind each step of the workflow
 
-
+After revision: Thank you for adding more narratives and explanations throughout the notebook! Now, it's much easier to follow! I love your citation at the end! 
 
 - Hui
   
