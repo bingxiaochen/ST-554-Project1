@@ -11,7 +11,9 @@ Overall, I think you did a great job providing background information, explainin
 Suggestions to improve: 
   + plot_hist function: the logic within the if–else statement may need to be evaluated before the plotting step, investigate if the conditional is necessary
   + Expanding the analysis by examining Benzene concentration across combinations of different time frames, such as grouping observations by both season and month, to better capture temporal patterns in the data.
-  + Is there a categorical variables summary? Including a summary of categorical variables is helpful to provide a more complete overview of the dataset beyond numerical summaries. 
+  + Is there a categorical variables summary? Including a summary of categorical variables is helpful to provide a more complete overview of the dataset beyond numerical summaries.
+
+After revision: Thank you for the hard work! Your notebook is very thorough. I like the new tables, plots, and summaries you added. They brought very important value and additional insight into this exploratory data analysis. 
 
 
 - Cole Hammett
