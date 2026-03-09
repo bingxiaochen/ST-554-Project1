@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNacZ1sN6wOlVGkzBxdT5yl",
+      "authorship_tag": "ABX9TyOcYCVIJnCvU+MRqiQeKVEz",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -116,22 +116,6 @@
         "\n",
         "        return np.mean(self.slopes)\n"
       ]
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
-        "TestBelow you definition of your class and its methods, add a section of code that\n",
-        "– Creates an instance of the object with beta_0 = 12, beta_1 = 2, x = np.array(list(np.linspace(start\n",
-        "= 0, stop = 10, num = 11))*3), sigma = 1, and seed = 10\n",
-        "– Call your run_simulation() method (this should return the error message)\n",
-        "– Run 10000 simulations\n",
-        "– Plot the sampling distribution\n",
-        "– Approximate the two-sided probability of being larger than 2.1\n",
-        "– Print out the value of the simulated slopes using the attribute"
-      ],
-      "metadata": {
-        "id": "7xs0Et9TN-oT"
-      }
     },
     {
       "cell_type": "code",
